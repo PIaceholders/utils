@@ -12,6 +12,15 @@ xtween({
 }):Play()
 ```
 
+XTween returns a function to start the tween
+`:Play()`
+
+you can save the function to be used later by defining xtween to a variable
+```lua
+local tween = xtween({ ... })
+tween:Play()
+```
+
 # Arguments
 XTween takes a table with tables
 the sub-tables have arguments
