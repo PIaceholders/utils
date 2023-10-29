@@ -16,7 +16,7 @@ xtween({
 XTween takes a table with tables
 the sub-tables have arguments
 
-* arg #1: Insatnce
-* arg #2: TweenInfo
-* arg #3: Goals (table w/ properties)
-* arg #4 (OPTIONAL): delay before tween starts
+* arg #1: `Instance`
+* arg #2: `TweenInfo`
+* arg #3: `Goals` (table w/ properties)
+* arg #4 (OPTIONAL): `delay in seconds` before tween starts
