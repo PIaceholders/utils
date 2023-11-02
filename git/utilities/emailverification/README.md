@@ -24,5 +24,5 @@ else
         -- a server issue
         warn(`an error occured while checking the email. response: {response}`)
     end
-endt
+end
 ```
