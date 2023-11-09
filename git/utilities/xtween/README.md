@@ -20,12 +20,3 @@ you can save the function to be used later by defining xtween to a variable
 local tween = xtween({ ... })
 tween:Play()
 ```
-
-# Arguments
-XTween takes a table with tables
-the sub-tables have arguments
-
-* arg #1: `Instance`
-* arg #2: `TweenInfo`
-* arg #3: `Goals` (table w/ properties)
-* arg #4 (OPTIONAL): `delay in seconds` before tween starts
