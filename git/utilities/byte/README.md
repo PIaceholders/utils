@@ -30,6 +30,6 @@ Example:
 -- Does not work
 my_var += 1
 
-`` Works
+-- Works
 my_var = my_var + 1
 ```
